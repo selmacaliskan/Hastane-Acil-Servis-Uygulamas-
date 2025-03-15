@@ -110,7 +110,8 @@ Tüm bilgiler HL7 formatında yapılandırılır
 HL7 mesajı "hastalar_hl7.txt" dosyasına kaydedilir
 
 Sistem Akış Şeması
-![image](https://github.com/user-attachments/assets/51e4324f-04f5-4c85-b18f-a7ec9ca16970)
+![image](https://github.com/user-attachments/assets/fa288e50-bd62-44c6-873d-5b6121a02b96)
+
 
 📈 Geliştirme Potansiyeli
 
