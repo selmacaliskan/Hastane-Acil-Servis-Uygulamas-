@@ -110,7 +110,7 @@ Tüm bilgiler HL7 formatında yapılandırılır
 HL7 mesajı "hastalar_hl7.txt" dosyasına kaydedilir
 
 Sistem Akış Şeması
-![image](https://github.com/user-attachments/assets/fa288e50-bd62-44c6-873d-5b6121a02b96)
+![Hastane Acil Servis Sistemi Akış Şeması 5240505030drawio drawio](https://github.com/user-attachments/assets/508d59b2-b092-43d9-91bd-f8f959243bbf)
 
 
 📈 Geliştirme Potansiyeli
