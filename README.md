@@ -109,7 +109,7 @@ Taburculuk veya yatış kararı verilir
 Tüm bilgiler HL7 formatında yapılandırılır
 HL7 mesajı "hastalar_hl7.txt" dosyasına kaydedilir
 
-Sistem Akış Şeması
+🖼️ Sistem Akış Şeması
 
 
 
