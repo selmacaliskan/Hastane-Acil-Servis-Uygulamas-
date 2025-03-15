@@ -108,7 +108,7 @@ Tüm bilgiler HL7 formatında yapılandırılır
 HL7 mesajı "hastalar_hl7.txt" dosyasına kaydedilir
 
 Sistem Akış Şeması
-file:///C:/Users/Selma/Downloads/Yaz%C4%B1l%C4%B1m/Veri%20Yap%C4%B1lar%C4%B1%20Ve%20Algoritmalar/Hastane%20Acil%20Servis%20Sistemi%20Ak%C4%B1%C5%9F%20%C5%9Eemas%C4%B1%205240505030drawio.html
+![image](https://github.com/user-attachments/assets/51e4324f-04f5-4c85-b18f-a7ec9ca16970)
 
 📈 Geliştirme Potansiyeli
 
