@@ -2,6 +2,8 @@
 Hasta kayıtları HL7 formatında tutulmuştur.
 HL7 Hasta Kayıt Sistemi
 Bu proje, acil servis ortamında hasta kayıtlarını HL7 (Health Level 7) standardında yönetmek için geliştirilmiş bir C uygulamasıdır. Sistem, hasta kaydı, triyaj, müdahale ve taburculuk süreçlerini içerir ve tüm bu bilgileri uluslararası sağlık veri standardı olan HL7 formatında saklar.
+
+
 📋 Özellikler
 
 Hasta kimlik bilgilerinin (TC Kimlik, İsim, Soyisim, Yaş) kaydedilmesi
