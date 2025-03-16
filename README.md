@@ -1,7 +1,11 @@
 # Hastane-Acil-Servis-Uygulamas-
-BU proje bir hastanedki acil doktorunun önündeki en temel yazılım olarak düşünülmüştür.
+
+⚙️Bu proje bir hastanedeki acil doktorunun önündeki en temel yazılım olarak düşünülmüştür.
+
 Hasta kayıtları HL7 formatında tutulmuştur.
+
 HL7 Hasta Kayıt Sistemi
+
 Bu proje, acil servis ortamında hasta kayıtlarını HL7 (Health Level 7) standardında yönetmek için geliştirilmiş bir C uygulamasıdır. Sistem, hasta kaydı, triyaj, müdahale ve taburculuk süreçlerini içerir ve tüm bu bilgileri uluslararası sağlık veri standardı olan HL7 formatında saklar.
 
 
